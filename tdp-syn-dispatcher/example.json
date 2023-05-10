@@ -1,0 +1,229 @@
+[
+    {
+        "subscriptionId": "30400435-12312321",
+        "frameworkAgreementId": "synopsis01",
+        "paymentMethodType": "paymentMethodType",
+        "products": [
+            {
+                "id": "id",
+                "name": "name",
+                "productStatus": "01"
+            }
+        ],
+        "traceId": "traceId",
+        "alias": "Prueba1",
+        "emailAddress": "email",
+        "transactionDateTime": "ISODate('2023-02-24T11:12:52.898+0000')",
+        "creationDate": "ISODate('2023-04-03T18:34:17.898+0000')",
+        "subscriptionStatus": "01",
+        "activation": false,
+        "isDeleted": false
+    },
+    {
+        "subscriptionId": "30400084-12312321",
+        "frameworkAgreementId": "synopsis01",
+        "paymentMethodType": "paymentMethodType",
+        "products": [
+            {
+                "id": "id",
+                "name": "name",
+                "productStatus": "01"
+            }
+        ],
+        "traceId": "traceId",
+        "alias": "Prueba1",
+        "emailAddress": "email",
+        "transactionDateTime": "ISODate('2023-02-24T11:12:52.898+0000')",
+        "creationDate": "ISODate('2023-04-03T18:34:17.899+0000')",
+        "subscriptionStatus": "01",
+        "activation": false,
+        "isDeleted": false
+    },
+    {
+        "subscriptionId": "30400418-12312321",
+        "frameworkAgreementId": "synopsis01",
+        "paymentMethodType": "paymentMethodType",
+        "products": [
+            {
+                "id": "id",
+                "name": "name",
+                "productStatus": "01"
+            }
+        ],
+        "traceId": "traceId",
+        "alias": "Prueba1",
+        "emailAddress": "email",
+        "transactionDateTime": "ISODate('2023-02-24T11:12:52.898+0000')",
+        "creationDate": "ISODate('2023-04-03T18:34:17.900+0000')",
+        "subscriptionStatus": "01",
+        "activation": false,
+        "isDeleted": false
+    },
+    {
+        "subscriptionId": "30400261-12312321",
+        "frameworkAgreementId": "synopsis01",
+        "paymentMethodType": "paymentMethodType",
+        "products": [
+            {
+                "id": "id",
+                "name": "name",
+                "productStatus": "01"
+            }
+        ],
+        "traceId": "traceId",
+        "alias": "Prueba1",
+        "emailAddress": "email",
+        "transactionDateTime": "ISODate('2023-02-24T11:12:52.898+0000')",
+        "creationDate": "ISODate('2023-04-03T18:34:17.902+0000')",
+        "subscriptionStatus": "01",
+        "activation": false,
+        "isDeleted": false
+    },
+    {
+        "subscriptionId": "30400093-12312321",
+        "frameworkAgreementId": "synopsis01",
+        "paymentMethodType": "paymentMethodType",
+        "products": [
+            {
+                "id": "id",
+                "name": "name",
+                "productStatus": "01"
+            }
+        ],
+        "traceId": "traceId",
+        "alias": "Prueba1",
+        "emailAddress": "email",
+        "transactionDateTime": "ISODate('2023-02-24T11:12:52.898+0000')",
+        "creationDate": "ISODate('2023-04-03T18:34:17.907+0000')",
+        "subscriptionStatus": "01",
+        "activation": false,
+        "isDeleted": false
+    },
+    {
+        "subscriptionId": "30400425-12312321",
+        "frameworkAgreementId": "synopsis01",
+        "paymentMethodType": "paymentMethodType",
+        "products": [
+            {
+                "id": "id",
+                "name": "name",
+                "productStatus": "01"
+            }
+        ],
+        "traceId": "traceId",
+        "alias": "Prueba1",
+        "emailAddress": "email",
+        "transactionDateTime": "ISODate('2023-02-24T11:12:52.898+0000')",
+        "creationDate": "ISODate('2023-04-03T18:34:17.911+0000')",
+        "subscriptionStatus": "01",
+        "activation": false,
+        "isDeleted": false
+    },
+    {
+        "subscriptionId": "30400446-12312321",
+        "userId": "30400446-12312321",
+        "channel": "WEB Portal",
+        "frameworkAgreementId": "synopsis01",
+        "offeringId": "offeringId",
+        "paymentMethodType": "paymentMethodType",
+        "products": [
+            {
+                "id": "id",
+                "name": "name",
+                "productStatus": "00"
+            }
+        ],
+        "traceId": "traceId",
+        "serviceId": "serviceId",
+        "nationalIdType": "nationalIdType",
+        "nationalId": "nationalId",
+        "alias": "Prueba1",
+        "emailAddress": "email",
+        "termsAndConditions": "termsAndConditions",
+        "transactionDateTime": "ISODate('2023-02-24T11:12:52.898+0000')",
+        "activationlink": "activationlink",
+        "subjectid": "subjectid",
+        "creationDate": "ISODate('2023-04-03T18:34:18.200+0000')",
+        "subscriptionStatus": "00",
+        "activation": false,
+        "isDeleted": false
+    },
+    {
+        "subscriptionId": "30400451-12312321",
+        "userId": "30400451-12312321",
+        "channel": "WEB Portal",
+        "frameworkAgreementId": "synopsis01",
+        "offeringId": "offeringId",
+        "paymentMethodType": "paymentMethodType",
+        "products": [
+            {
+                "id": "id",
+                "name": "name",
+                "productStatus": "00"
+            }
+        ],
+        "traceId": "traceId",
+        "serviceId": "serviceId",
+        "nationalIdType": "nationalIdType",
+        "nationalId": "nationalId",
+        "alias": "Prueba1",
+        "emailAddress": "email",
+        "termsAndConditions": "termsAndConditions",
+        "transactionDateTime": "ISODate('2023-02-24T11:12:52.898+0000')",
+        "activationlink": "activationlink",
+        "subjectid": "subjectid",
+        "creationDate": "ISODate('2023-04-03T18:34:18.902+0000')",
+        "subscriptionStatus": "00",
+        "activation": false,
+        "isDeleted": false
+    },
+    {
+        "subscriptionId": "30400443-12312321",
+        "frameworkAgreementId": "synopsis01",
+        "paymentMethodType": "paymentMethodType",
+        "products": [
+            {
+                "id": "id",
+                "name": "name",
+                "productStatus": "01"
+            }
+        ],
+        "traceId": "traceId",
+        "alias": "Prueba1",
+        "emailAddress": "email",
+        "transactionDateTime": "ISODate('2023-02-24T11:12:52.898+0000')",
+        "creationDate": "ISODate('2023-04-03T18:34:18.905+0000')",
+        "subscriptionStatus": "01",
+        "activation": false,
+        "isDeleted": false
+    },
+    {
+        "subscriptionId": "30400454-12312321",
+        "userId": "30400454-12312321",
+        "channel": "WEB Portal",
+        "frameworkAgreementId": "synopsis01",
+        "offeringId": "offeringId",
+        "paymentMethodType": "paymentMethodType",
+        "products": [
+            {
+                "id": "id",
+                "name": "name",
+                "productStatus": "00"
+            }
+        ],
+        "traceId": "traceId",
+        "serviceId": "serviceId",
+        "nationalIdType": "nationalIdType",
+        "nationalId": "nationalId",
+        "alias": "Prueba1",
+        "emailAddress": "email",
+        "termsAndConditions": "termsAndConditions",
+        "transactionDateTime": "ISODate('2023-02-24T11:12:52.898+0000')",
+        "activationlink": "activationlink",
+        "subjectid": "subjectid",
+        "creationDate": "ISODate('2023-04-03T18:34:18.927+0000')",
+        "subscriptionStatus": "00",
+        "activation": false,
+        "isDeleted": false
+    }
+]
